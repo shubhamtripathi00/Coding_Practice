@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 void printarrays(int a[2][2])
 
 {
